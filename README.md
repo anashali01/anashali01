@@ -43,7 +43,7 @@ You can click the Preview link to take a look at your changes.
 <p align="left">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anashali01&" alt="anashali01" /></p>
