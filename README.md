@@ -8,7 +8,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=anashali01&theme=neon&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=anashali01&theme=neon&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=anashali01&theme=neon&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=anashali01&theme=gotham)](https://git.io/streak-stats)
+![][GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=anashali01&theme=gotham&hide_border=true&short_numbers=true)](https://git.io/streak-stats)
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=anashali01&theme=neon&no-frame=false&no-bg=false&margin-w=4)
 
