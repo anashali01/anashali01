@@ -31,6 +31,50 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=anashali01&theme=neon&no-frame=false&no-bg=false&margin-w=4)
 
+## 🏅 Competitive Programming Journey  
+
+### 💡 LeetCode (Dynamic Stats)  
+![LeetCode Stats](https://leetcard.jacoblin.cool/anashali01?theme=dark&font=baloo&ext=contest)  
+
+- 🚀 **14 Problems Solved** so far  
+- 🟢 Easy: 13 | 🟡 Medium: 1 | 🔴 Hard: 0  
+- 📊 **26 Submissions** in the past year  
+- ⏳ Max Streak: **2 days** | 🔥 Active Days: **5**  
+- 🎯 [Check out my LeetCode profile](https://leetcode.com/anashali01/)  
+
+---
+
+### 🔥 HackerRank (Skills & Certifications)  
+[![HackerRank Profile](https://img.shields.io/badge/-Visit%20My%20HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/saiyedanasahli)  
+
+**🏆 Skill Badges**  
+- 🥈 Python – Silver Badge  
+- 🥈 SQL – Silver Badge  
+
+**📜 Verified Certifications**  
+[![SQL (Basic)](https://img.shields.io/badge/SQL%20(Basic)-green?style=for-the-badge&logo=hackerrank)](https://www.hackerrank.com/certificates/007f2a4bf9b5)  
+[![CSS (Basic)](https://img.shields.io/badge/CSS%20(Basic)-blue?style=for-the-badge&logo=css3&logoColor=white)](https://www.hackerrank.com/certificates/d02b57b62e07)  
+
+
+---
+
+<p align="center">
+  ─── ⋆⋅☆⋅⋆ ───
+</p>
+
+<p align="center">
+✨ Always learning & leveling up in problem solving!  
+</p>
+
+<p align="center">
+  ─── ⋆⋅☆⋅⋆ ───
+</p>
+
+---
+
+
+
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
