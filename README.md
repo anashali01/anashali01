@@ -39,18 +39,23 @@
 
 </p>
 
-## 🔥 GitHub Streak
+# 🔥 GitHub Streak
 
 <p align="center">
   <img src="https://github-readme-streak-stats-eight.vercel.app?user=anashali01&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anashali01&theme=tokyonight" alt="Profile Summary"/>
 </p>
+# 📝 Most Used Languages
 
-## 🏅 Competitive Programming Journey
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anashali01&hide=html&theme=tokyonight&layout=compact" alt="Most Used Languages" />
+</p>
+
+# 🏅 Competitive Programming Journey
 
 ### 💡 LeetCode Stats
 <p align="center">
@@ -119,7 +124,7 @@
     <img src="https://img.icons8.com/clouds/100/email.png" width="40" alt="Email"/>
   </a>
   <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/yourprofile">
+  <a href="[https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/anashali-saiyed-8b2532325/)">
     <img src="https://img.icons8.com/color/48/linkedin.png" width="40" alt="LinkedIn"/>
   </a>
   <!-- Discord -->
