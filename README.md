@@ -132,15 +132,15 @@
     <img src="https://img.icons8.com/color/48/discord--v2.png" width="40" alt="Discord"/>
   </a>
   <!-- LeetCode (SVG, animated badge below if wanted) -->
-  <a href="https://leetcode.com/yourusername">
+  <a href="[https://leetcode.com/yourusername](https://leetcode.com/u/anashali01/)">
     <img src="https://assets.leetcode.com/static_assets/public/webpack_bundles/images/logo-dark.e99485d9b.svg" width="40" alt="LeetCode"/>
   </a>
   <!-- HackerRank -->
-  <a href="https://www.hackerrank.com/yourusername">
+  <a href="[https://www.hackerrank.com/yourusername](https://www.hackerrank.com/profile/saiyedanashali)">
     <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-color-tal-revivo.png" width="40" alt="HackerRank"/>
   </a>
   <!-- Reddit -->
-  <a href="https://www.reddit.com/user/yourusername">
+  <a href="[https://www.reddit.com/user/yourusername](https://www.reddit.com/user/Major_Rooster_4032/)">
     <img src="https://img.icons8.com/fluency/48/reddit.png" width="40" alt="Reddit"/>
   </a>
   <!-- Instagram -->
@@ -148,11 +148,11 @@
     <img src="https://img.icons8.com/fluency/48/instagram-new.png" width="40" alt="Instagram"/>
   </a>
   <!-- Dribbble -->
-  <a href="https://dribbble.com/yourprofile">
+  <a href="[https://dribbble.com/yourprofile](https://dribbble.com/anashali01)">
     <img src="https://img.icons8.com/color/48/dribbble.png" width="40" alt="Dribbble"/>
   </a>
   <!-- Behance -->
-  <a href="https://www.behance.net/yourprofile">
+  <a href="[https://www.behance.net/yourprofile](https://www.behance.net/8101anashal)">
     <img src="https://img.icons8.com/color/48/behance.png" width="40" alt="Behance"/>
   </a>
 </p>
