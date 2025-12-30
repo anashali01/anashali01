@@ -148,11 +148,11 @@
     <img src="https://img.icons8.com/fluency/48/instagram-new.png" width="40" alt="Instagram"/>
   </a>
   <!-- Dribbble -->
-  <a href="[https://dribbble.com/yourprofile](https://dribbble.com/anashali01)">
+  <a href="https://dribbble.com/anashali01">
     <img src="https://img.icons8.com/color/48/dribbble.png" width="40" alt="Dribbble"/>
   </a>
   <!-- Behance -->
-  <a href="[https://www.behance.net/yourprofile](https://www.behance.net/8101anashal)">
+  <a href="https://www.behance.net/8101anashal">
     <img src="https://img.icons8.com/color/48/behance.png" width="40" alt="Behance"/>
   </a>
 </p>
