@@ -14,30 +14,31 @@
 - 🤝 I’m looking for help with Full Stack Development
 - 🌱 I’m currently learning Frontend Development
 
-## 💻 Tech Stack
-<p align="center">
+## 🚀 Tech Stack & Skills
 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
-![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
-![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+### 🧑‍💻 Frontend Development
+![Frontend](https://skillicons.dev/icons?i=html,css,js,react,nextjs,vue,bootstrap,tailwind,sass,jquery)
 
-</p>
+### 🛠 Backend Development
+![Backend](https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres,sqlite)
+
+### ⚙️ Programming Languages
+![Languages](https://skillicons.dev/icons?i=js,py,c,cpp)
+
+### 🧰 Tools & Platforms
+![Tools](https://skillicons.dev/icons?i=git,github,npm,yarn,postman,vercel,netlify,notion,figma)
+
+### 🧪 Build Tools & Bundlers
+![Build Tools](https://skillicons.dev/icons?i=vite,webpack,babel)
+
+### 📝 Code Editors & IDEs
+![Editors](https://skillicons.dev/icons?i=vscode,visualstudio,pycharm)
+
+### 🧠 Databases
+![Databases](https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite)
+
+
+
 
 # 🔥 GitHub Streak
 
@@ -115,45 +116,33 @@
   ✨ Always learning & leveling up in problem solving!  
 </p>
 
+## 📫 Contact Me
 
-## 🌐 Connect With Me
 
 <p align="center">
-  <!-- Email -->
-  <a href="mailto: saiyedanashali@email.com">
-    <img src="https://img.icons8.com/clouds/100/email.png" width="40" alt="Email"/>
+  <a href="mailto:yourname@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="45"/>
   </a>
-  <!-- LinkedIn -->
-  <a href="[https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/anashali-saiyed-8b2532325/)">
-    <img src="https://img.icons8.com/color/48/linkedin.png" width="40" alt="LinkedIn"/>
+  <a href="https://linkedin.com/in/yourusername">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
   </a>
-  <!-- Discord -->
-  <a href="https://discord.com/users/yourid">
-    <img src="https://img.icons8.com/color/48/discord--v2.png" width="40" alt="Discord"/>
-  </a>
-  <!-- LeetCode (SVG, animated badge below if wanted) -->
-  <a href="[https://leetcode.com/yourusername](https://leetcode.com/u/anashali01/)">
-    <img src="https://assets.leetcode.com/static_assets/public/webpack_bundles/images/logo-dark.e99485d9b.svg" width="40" alt="LeetCode"/>
-  </a>
-  <!-- HackerRank -->
-  <a href="[https://www.hackerrank.com/yourusername](https://www.hackerrank.com/profile/saiyedanashali)">
-    <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-color-tal-revivo.png" width="40" alt="HackerRank"/>
-  </a>
-  <!-- Reddit -->
-  <a href="[https://www.reddit.com/user/yourusername](https://www.reddit.com/user/Major_Rooster_4032/)">
-    <img src="https://img.icons8.com/fluency/48/reddit.png" width="40" alt="Reddit"/>
-  </a>
-  <!-- Instagram -->
   <a href="https://instagram.com/yourusername">
-    <img src="https://img.icons8.com/fluency/48/instagram-new.png" width="40" alt="Instagram"/>
+    <img src="https://skillicons.dev/icons?i=instagram" height="45"/>
   </a>
-  <!-- Dribbble -->
-  <a href="https://dribbble.com/anashali01">
-    <img src="https://img.icons8.com/color/48/dribbble.png" width="40" alt="Dribbble"/>
+  <a href="https://discord.gg/yourserver">
+    <img src="https://skillicons.dev/icons?i=discord" height="45"/>
   </a>
-  <!-- Behance -->
-  <a href="https://www.behance.net/8101anashal">
-    <img src="https://img.icons8.com/color/48/behance.png" width="40" alt="Behance"/>
+  <a href="https://stackoverflow.com/users/yourid">
+    <img src="https://skillicons.dev/icons?i=stackoverflow" height="45"/>
+  </a>
+  <a href="https://codepen.io/yourusername">
+    <img src="https://skillicons.dev/icons?i=codepen" height="45"/>
+  </a>
+  <a href="https://www.hackerrank.com/yourusername">
+    <img src="https://cdn.iconscout.com/icon/free/png-512/free-hackerrank-logo-icon-svg-download-png-2944922.png?f=webp&w=512" height="45"/>
+  </a>
+  <a href="https://leetcode.com/yourusername">
+    <img src="https://cdn.iconscout.com/icon/free/png-512/free-leetcode-logo-icon-svg-download-png-2944960.png?f=webp&w=512" height="45"/>
   </a>
 </p>
 
