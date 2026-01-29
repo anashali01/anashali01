@@ -1,18 +1,37 @@
-<h2 align="center" style="font-weight: bold; font-size: 1.8rem;">
-  Hey there! 👋 Welcome to my profile
-  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" alt="Hi" />
+<h2 align="center">
+  Hi 👋 I'm <strong>Anash Ali</strong>
 </h2>
 
-## 👾 Chill. Code. Conquer.
 <p align="center">
-  <img src="https://i.pinimg.com/originals/e8/4e/db/e84edb279472c7ab49e97ec276d4ffda.gif" width="350" alt="Chill Gojo"/>
+  <strong>Full-Stack Developer</strong> with a strong focus on building<br/>
+  modern, scalable & interactive frontend experiences
 </p>
 
-## 💫 About Me
-- 🔭 I’m currently working on Backend Development
-- 👯 I’m looking to collaborate on projects
-- 🤝 I’m looking for help with Full Stack Development
-- 🌱 I’m currently learning Frontend Development
+<p align="center">
+  I enjoy working across the stack — from crafting smooth user interfaces<br/>
+  to designing reliable backend logic.
+</p>
+
+<h3 align="center">
+  🚀 <span style="color:#00c6ff">Code</span> • 
+  <span style="color:#ff00cc">Solve</span> • 
+  <span style="color:#7C7CFF">Ship</span>
+</h3>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:203a43&height=2"/>
+</p>
+
+## 🎯 What I Do
+
+- 🧑‍💻 Build **end-to-end web applications** (Frontend + Backend)
+- 🎨 Focus on **frontend quality, UX & interactions**
+- 🛠 Design APIs, databases & server-side logic
+- ⚡ Write clean, maintainable & scalable code
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:141E30,100:243B55&height=2"/>
+</p>
 
 ## 🚀 Tech Stack & Skills
 
@@ -37,112 +56,99 @@
 ### 🧠 Databases
 ![Databases](https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite)
 
-
-
-
-# 🔥 GitHub Streak
-
 <p align="center">
-  <img src="https://github-readme-streak-stats-eight.vercel.app?user=anashali01&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:232526,100:414345&height=2"/>
 </p>
 
-# 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anashali01&theme=tokyonight" alt="Profile Summary"/>
-</p>
-# 📝 Most Used Languages
+## 📊 Developer Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anashali01&hide=html&theme=tokyonight&layout=compact" alt="Most Used Languages" />
-</p>
-
-# 🏅 Competitive Programming Journey
-
-### 💡 LeetCode Stats
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/anashali01?theme=dark&font=baloo&ext=contest" alt="LeetCode Stats"/>
-  <br>
-  <a href="https://leetcode.com/anashali01/" target="_blank">🔗 LeetCode Profile</a>
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=anashali01&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
 <p align="center">
-  🚀 <strong>14 Problems Solved</strong> &nbsp;|&nbsp; 🟢 Easy: 13 &nbsp;|&nbsp; 🟡 Medium: 1 &nbsp;|&nbsp; 🔴 Hard: 0  
-  <br>
-  📊 <strong>26 Submissions</strong> in the past year &nbsp;|&nbsp; ⏳ <strong>Max Streak:</strong> 2 days &nbsp;|&nbsp; 🔥 <strong>Active Days:</strong> 5  
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anashali01&theme=tokyonight"/>
 </p>
 
----
-
-### 🔥 HackerRank Skills & Certifications
 <p align="center">
-  <a href="https://www.hackerrank.com/saiyedanasahli" target="_blank">
-    <img src="https://img.shields.io/badge/-Visit%20My%20HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anashali01&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:141E30,100:243B55&height=2"/>
+</p>
+
+## 🏅 Competitive Programming
+
+<p align="center">
+  <img 
+    src="https://leetcard.jacoblin.cool/anashali01?theme=dark&font=baloo&ext=contest&border=0" 
+    width="420"
+  />
+</p>
+
+<p align="center">
+  <a href="https://leetcode.com/anashali01/">
+    <img src="https://img.shields.io/badge/View%20LeetCode-000?style=for-the-badge&logo=leetcode&logoColor=yellow"/>
   </a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/SQL%20(Basic)-green?style=for-the-badge&logo=hackerrank" alt="SQL Basic Certified" />
-  <a href="https://www.hackerrank.com/certificates/007f2a4bf9b5" target="_blank">(SQL Certificate)</a>
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/CSS%20(Basic)-blue?style=for-the-badge&logo=css3&logoColor=white" alt="CSS Basic Certified" />
-  <a href="https://www.hackerrank.com/certificates/d02b57b62e07" target="_blank">(CSS Certificate)</a>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:232526,100:414345&height=2"/>
+</p>
+
+## 🧪 Skill Verification (HackerRank)
+
+<p align="center">
+  <a href="https://www.hackerrank.com/saiyedanasahli" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-Verified_Skills-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+  </a>
 </p>
 
 <p align="center">
-  🥈 <strong>Python</strong> – Silver Badge &nbsp;|&nbsp; 🥈 <strong>SQL</strong> – Silver Badge
+  <img src="https://img.shields.io/badge/SQL-Basic-green?style=flat&logo=hackerrank"/>
+  <img src="https://img.shields.io/badge/CSS-Basic-blue?style=flat&logo=css3"/>
+  <img src="https://img.shields.io/badge/Python-Silver-yellow?style=flat"/>
 </p>
-
-
-## 🎶 Now Playing on Spotify
-<p align="center">
-  <img src="https://novatorem.vercel.app/api/spotify?size=compact" alt="Spotify Now Playing"/>
-</p>
-
-## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=anashali01&theme=tokyonight" alt="GitHub Trophies"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=14&pause=900&color=00E7FF&center=true&vCenter=true&width=520&lines=Deploying_UI_Layer...;Optimizing_Animations_(GSAP)...;Syncing_Backend_APIs...;Build_Status:_STABLE" />
 </p>
 
 
-## 🚀 Code In Action: Contribution Snake
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" style="max-width:100%;" alt="Contribution Snake"/>
-</p>
 
----
+## 🗺 Code Activity Map
 
 <p align="center">
-  ✨ Always learning & leveling up in problem solving!  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anashali01&theme=tokyo-night&hide_border=true"/>
 </p>
+
+
+<p align="center">
+  ✨ Always learning, building & refining my craft
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:203a43&height=2"/>
+</p>
+
 
 ## 📫 Contact Me
 
-
 <p align="center">
-  <a href="mailto:yourname@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="45"/>
-  </a>
-  <a href="https://linkedin.com/in/yourusername">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
-  </a>
-  <a href="https://instagram.com/yourusername">
-    <img src="https://skillicons.dev/icons?i=instagram" height="45"/>
-  </a>
-  <a href="https://discord.gg/yourserver">
-    <img src="https://skillicons.dev/icons?i=discord" height="45"/>
-  </a>
-  <a href="https://stackoverflow.com/users/yourid">
-    <img src="https://skillicons.dev/icons?i=stackoverflow" height="45"/>
-  </a>
-  <a href="https://codepen.io/yourusername">
-    <img src="https://skillicons.dev/icons?i=codepen" height="45"/>
-  </a>
-  <a href="https://www.hackerrank.com/yourusername">
-    <img src="https://cdn.iconscout.com/icon/free/png-512/free-hackerrank-logo-icon-svg-download-png-2944922.png?f=webp&w=512" height="45"/>
-  </a>
-  <a href="https://leetcode.com/yourusername">
-    <img src="https://cdn.iconscout.com/icon/free/png-512/free-leetcode-logo-icon-svg-download-png-2944960.png?f=webp&w=512" height="45"/>
-  </a>
+  <a href="mailto:yourname@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="45"/></a>
+  <a href="https://linkedin.com/in/yourusername"><img src="https://skillicons.dev/icons?i=linkedin" height="45"/></a>
+  <a href="https://instagram.com/yourusername"><img src="https://skillicons.dev/icons?i=instagram" height="45"/></a>
+  <a href="https://discord.gg/yourserver"><img src="https://skillicons.dev/icons?i=discord" height="45"/></a>
+  <a href="https://stackoverflow.com/users/yourid"><img src="https://skillicons.dev/icons?i=stackoverflow" height="45"/></a>
+  <a href="https://codepen.io/yourusername"><img src="https://skillicons.dev/icons?i=codepen" height="45"/></a>
+  <a href="https://www.hackerrank.com/yourusername"><img src="https://cdn.iconscout.com/icon/free/png-512/free-hackerrank-logo-icon-svg-download-png-2944922.png" height="45"/></a>
+  <a href="https://leetcode.com/yourusername"><img src="https://cdn.iconscout.com/icon/free/png-512/free-leetcode-logo-icon-svg-download-png-2944960.png" height="45"/></a>
+</p>
+<p align="center">
+  <sub>System stable • UI optimized • Ready for scale</sub>
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=11&pause=1000&color=7C7CFF&center=true&vCenter=true&width=400&lines=Session_closed.;Thanks_for_visiting." />
+</p>
